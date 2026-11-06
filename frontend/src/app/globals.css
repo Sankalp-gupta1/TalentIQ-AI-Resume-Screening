@@ -1,0 +1,4 @@
+@import "tailwindcss";
+:root{--bg:#f5f7fb;--ink:#172033;--muted:#778197;--line:#e8ecf3;--navy:#172554;--blue:#365cf5;--green:#15966b}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Arial,Helvetica,sans-serif}
+button,input,textarea,select{font:inherit}button{cursor:pointer}
